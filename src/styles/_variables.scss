@@ -1,0 +1,11 @@
+// padding
+$gap-base: 8px;
+$gap-sm: $gap-base * 0.5;
+$gap-md: $gap-base * 2;
+$gap-normal: $gap-base * 1.5;
+$gap-lg: $gap-base * 3;
+
+// border
+$border-color: #d7d9db;
+$default-border: 1px solid $border-color;
+$border-radius: 4px;

@@ -1,0 +1,17 @@
+export const OPERATIONS = {
+  eq: '等于',
+  ne: '不存在或不等于',
+  gt: '大于',
+  ge: '大于等于',
+  lt: '小于',
+  le: '小于等于',
+  has: '包含',
+  unhas: '不存在或不包含',
+  reg: '正则',
+  unreg: '不存在或正则取反',
+  ex: '存在',
+  unex: '不存在',
+  empty: '等于空',
+  in: '在',
+  nin: '不在',
+}
